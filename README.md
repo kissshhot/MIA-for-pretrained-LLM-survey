@@ -14,7 +14,7 @@ A Reading List for MIA-for-pretrained-LLM (Updated: 03 March 2025)
 <br />
 
 <div align="center">
-    <a href="https://arxiv.org/abs/2406.05804"><img src="https://img.shields.io/badge/CoLing-2025-b31b1b" alt="Paper"></a>
+    <!-- <a href="https://arxiv.org/abs/2406.05804"><img src="https://img.shields.io/badge/CoLing-2025-b31b1b" alt="Paper"></a> -->
     <a href="https://github.com/xinzhel/llm-agent-survey"><img src="https://img.shields.io/github/last-commit/xinzhel/llm-agent-survey?color=blue" alt="Github"></a>
     <a href="https://github.com/xinzhel/llm-agent-survey/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/xinzhel/llm-agent-survey?color=green"> </a>
 </div>
